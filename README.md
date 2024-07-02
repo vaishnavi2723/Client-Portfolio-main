@@ -60,9 +60,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rishabhgupta2004/HOMEHEAVEN.git
-   cd homeheaven
-   git clone https://github.com/Deepanshishukla24/HOMEHEAVEN.git
+   git clone https://github.com/vaishnavi2723/Client-Portfolio-main.git
    ```
 
 2. Install the dependencies for both the client and server:
